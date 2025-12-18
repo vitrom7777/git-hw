@@ -1,1 +1,5 @@
 example.txt
+.idea/
+.vscode/
+# *.zip  
+# !!!  .env
